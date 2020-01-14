@@ -3,6 +3,8 @@ html {
     height: 100%;
     margin: 0;
     font-family: serif;
+    font-variant: small-caps;
+    background-color: lightpink;
 }
 
 .hero-image {
@@ -25,7 +27,7 @@ html {
     top: 50%;
     left: 50%;
     transform: translate(-115%, -50%);
-    color: white;
+    color: lightpink;
     font-size: 250%;
 }
 
